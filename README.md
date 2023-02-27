@@ -4,7 +4,7 @@ ICMP Ping and Traceroute
 ICMP ping:
 Methods used: ping, sendOnePing, doOneping, receiveOnePing
 
--> Uses the ping method to get the host
+-> Uses the ping method to get the host \n
 -> SendOne ping creates the socket, use the socket to doOne ping , and receiveOne ping returns the total delay from Host to Host
 
 Traceroute:
